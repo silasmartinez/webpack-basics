@@ -1,8 +1,7 @@
 # webpack-basics
-Setting up an initial webpack and angular solution
+Setting up an initial webpack and angular solution, including minification.
 
-npm i -G webpack-dev-server
+webpack -w
 
-webpack-dev-server
+http-server
 
-http://localhost:8080/webpack-dev-server/
